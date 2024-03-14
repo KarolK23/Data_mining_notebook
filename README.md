@@ -7,3 +7,6 @@
  - basic model evaluation
  - comparison to benchmark model
 ## lab 2 summary
+ - outliers detection with DBSCAN
+ - Box-Cox transformation
+ - logistic regression prediction model
